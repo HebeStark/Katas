@@ -1,0 +1,81 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f8f8;
+    padding: 40px;
+    color: #111;
+}
+
+h2, h3 {
+    margin-bottom: 15px;
+    color: #4b0082; /* violeta oscuro */
+}
+
+/* CONTENEDOR */
+form {
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 30px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+}
+
+/* INPUTS */
+input[type="text"],
+input[type="email"] {
+    width: 100%;
+    padding: 8px;
+    margin: 6px 0 12px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    transition: 0.3s;
+}
+
+input:focus {
+    border-color: #7b2cbf; /* violeta */
+    outline: none;
+    box-shadow: 0 0 5px rgba(123,44,191,0.3);
+}
+
+button {
+    background-color: #7b2cbf; /* violeta */
+    color: white;
+    border: none;
+    padding: 8px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+button:hover {
+    background-color: #ffd60a; /* amarillo */
+    color: black;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    background: white;
+    padding: 15px;
+    margin-bottom: 15px;
+    border-left: 5px solid #7b2cbf;
+    border-radius: 6px;
+    box-shadow: 0 3px 8px rgba(0,0,0,0.05);
+}
+
+li form button {
+    background-color: black;
+    margin-top: 10px;
+}
+
+li form button:hover {
+    background-color: #ffd60a;
+    color: black;
+}
