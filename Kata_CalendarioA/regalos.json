@@ -1,0 +1,98 @@
+{
+  "1": {
+    "frase": "Hoy es un buen día para empezar algo nuevo.",
+    "imagen": "imagenes/imagen1.jpg"
+  },
+  "2": {
+    "frase": "Confía en ti. Eres más fuerte de lo que crees.",
+    "imagen": "imagenes/imagen2.jpg"
+  },
+  "3": {
+    "frase": "Pequeños pasos también cuentan.",
+    "imagen": "imagenes/imagen3.jpg"
+  },
+  "4":{
+    "frase":"Sé el cambio que quieres ver en el mundo.",
+    "imagen":"imagenes/imagen6.jpg"
+  },
+  "5":{
+    "frase":"La vida es como montar en bicicleta. Para mantener el equilibrio tienes que avanzar.",
+    "imagen":"imagenes/imagen7.jpg"
+  },
+   "6":{
+    "frase":"Sé el cambio que quieres ver en el mundo.",
+    "imagen":"imagenes/imagen8.jpg"
+  },
+   "7":{
+    "frase":"Qué maravilloso es que nadie tenga que esperar ni un segundo para empezar a mejorar el mundo.",
+    "imagen":"imagenes/imagen9.jpg"
+  },
+   "8":{
+    "frase":"Muchos piensan en cambiar el mundo, pero casi nadie piensa en cambiarse a sí mismo.",
+    "imagen":"imagenes/imagen1.jpg"
+  },
+   "9":{
+    "frase":"Podemos sufrir muchas derrotas pero no debemos ser derrotados.",
+    "imagen":"imagenes/imagen2.jpg"
+  },
+   "10":{
+    "frase":"El momento en que quieres dejarlo es justo el momento en que tienes que seguir avanzando.",
+    "imagen":"imagenes/imagen3.jpg"
+  },
+   "11":{
+    "frase":"No importa lo que te diga la gente, las palabras y las ideas pueden cambiar el mundo.",
+    "imagen":"imagenes/imagen5.jpg"
+  },
+   "12":{
+    "frase":"Nunca eres demasiado viejo para marcarte otra meta o tener un nuevo sueño.",
+    "imagen":"imagenes/imagen6.jpg"
+  },
+   "13":{
+    "frase":"La verdadera motivación procede de trabajar en cosas que nos importan.",
+    "imagen":"imagenes/imagen7.jpg"
+  },
+   "14":{
+    "frase":"La energía y la persistencia conquistan todas las cosas.",
+    "imagen":"imagenes/imagen8.jpg"
+  },
+   "15":{
+    "frase":"Sé amable, porque toda persona que conoces está librando una gran batalla.",
+    "imagen":"imagenes/imagen9.jpg"
+  },
+   "16":{
+    "frase":"La lógica te llevará de la A a la Z. La imaginación te llevará a cualquier lugar.",
+    "imagen":"imagenes/imagen1.jpg"
+  },
+   "17":{
+    "frase":"Las ideas no duran mucho. Hay que hacer algo con ellas.",
+    "imagen":"imagenes/imagen2.jpg"
+  },
+   "18":{
+    "frase":"Te deseo que estés vivo cada día de tu vida.",
+    "imagen":"imagenes/imagen3.jpg"
+  },
+   "19":{
+    "frase":"La excelencia no es un acto, es un hábito.",
+    "imagen":"imagenes/imagen5.jpg"
+  },
+   "20":{
+    "frase":"Sé tú mismo. Todos los demás ya están ocupados.",
+    "imagen":"imagenes/imagen6.jpg"
+  },
+   "21":{
+    "frase":"Lo que importa no es lo que te ocurre, sino cómo reaccionas a ello.",
+    "imagen":"imagenes/imagen7.jpg"
+  },
+   "22":{
+    "frase":"A veces no conoces el valor de un momento hasta que se ha convertido en un recuerdo.",
+    "imagen":"imagenes/imagen8.jpg"
+  },
+   "23":{
+    "frase":"No es la muerte lo que debes temer, sino nunca empezar a vivir.",
+    "imagen":"imagenes/imagen9.jpg"
+  },
+   "24":{
+    "frase":"No dejes que tu pasado ocupe todo tu presente.",
+    "imagen":"imagenes/imagen1.jpg"
+  }
+}
