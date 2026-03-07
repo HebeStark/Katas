@@ -1,0 +1,76 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #1f1f2e;
+}
+header {
+    color: white;
+}
+
+.contador {
+    color: white;
+}
+
+.marcador {
+    font-size: 20px;
+    margin-bottom: 20px;
+    color: white;
+}
+.tiempo {
+    color: white;
+    font-size: 18px;
+    margin-bottom: 15px;
+}
+.tablero {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: 130px;
+    gap: 10px;
+    width: 420px;
+    margin: auto;
+    background: linear-gradient(135deg, #6a0dad, #b084f5);
+    padding: 15px; 
+    border-radius: 10px;
+}
+
+.carta {
+    width: 100%;              
+    height: 130px;
+
+    border: 1px solid black;
+    border-radius: 5px;
+
+    background-image: url('../image/reverso.png');
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    cursor: pointer;
+}
+.carta.girada {
+    border: 2px solid mediumorchid;
+}
+
+.carta.arbol { background-image: url('../image/arbol.png'); }
+.carta.celestial { background-image: url('../image/celestial.png'); }
+.carta.cuerpos { background-image: url('../image/cuerpos.png'); }
+.carta.estrella { background-image: url('../image/estrella.png'); }
+.carta.luna { background-image: url('../image/luna.png'); }
+.carta.mago { background-image: url('../image/mago.png'); }
+.carta.ojoluna { background-image: url('../image/ojoluna.png'); }
+.carta.sol { background-image: url('../image/sol.png'); }
+
+#reiniciar{
+    margin-top:20px;
+    padding:10px 20px;
+    font-size:16px;
+    background:mediumorchid;
+    color:white;
+    border:none;
+    border-radius:5px;
+    cursor:pointer;
+}
+
+#reiniciar:hover{
+    background:purple;
+}
